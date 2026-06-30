@@ -1,0 +1,6 @@
+[13:05:19] [main/WARN]: Current channel is DEV, extended debugging is enabled
+[13:05:19] [main/INFO]: Initializing engine
+[13:05:19] [main/INFO]: Video driver: wayland
+[13:05:19] [main/INFO]: Renderer: vulkan
+[13:05:19] [main/INFO]: GPU device: NVIDIA GeForce RTX 5060 Ti
+[13:05:19] [main/INFO]: GPU driver version: NVIDIA 610.43.2.0
